@@ -1,4 +1,4 @@
-# Mobile-Responsive Web App
+# GreekLink
 
 ## Overview
 This project is a **mobile-responsive web application** designed to manage and edit data from three separate objects: `groupMe`, `flare`, and `campusGroups`. The app leverages common libraries like **Bootstrap 5** and **JavaScript** to create a dynamic user interface.
