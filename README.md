@@ -1,5 +1,11 @@
 # GreekLink
 
+### As a member of a fraternity
+
+### I want to be able to access fraternity information in one central location
+
+### So that I don't have to use multiple apps
+
 ## Overview
 This project is a **mobile-responsive web application** designed to manage and edit data from three separate objects: `groupMe`, `flare`, and `campusGroups`. The app leverages common libraries like **Bootstrap 5** and **JavaScript** to create a dynamic user interface.
 
@@ -49,13 +55,5 @@ Below is a preview of the interface:
 
 ---
 
-## Technology Stack
-- **HTML5**
-- **CSS3** with custom styles and Bootstrap 5
-- **JavaScript** for interactivity
-- **JSON** for data handling
-
----
-
 ## Credits
-Created by [Your Name]. Inspired by real-world scenarios for data management.
+Created by Garrett Bouldin. Inspired by real-world scenarios in fraternity and sorotity life at the University of North Alabama.
