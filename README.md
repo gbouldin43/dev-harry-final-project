@@ -6,46 +6,23 @@
 
 ### So that I don't have to use multiple apps
 
-## Overview
-This project is a **mobile-responsive web application** designed to manage and edit data from three separate objects: `groupMe`, `flare`, and `campusGroups`. The app leverages common libraries like **Bootstrap 5** and **JavaScript** to create a dynamic user interface.
+## Main Goal
+This project consists of creating a **mobile-responsive web application** designed to manage and edit data from three separate objects, `groupMe`, `flare`, and `campusGroups`, in one central location.
 
-The main features include:  
-- Loading data objects into the web page.  
-- Editing data in a user-friendly form.  
-- Displaying and exporting edited data in **JSON** format.  
-
-The app is styled with a **green, black, and white color scheme** for a clean and professional look.
-
----
-
-## Features
-1. **Dynamic Data Loading**  
-   Users can load data from predefined objects into three separate cards:  
-   - **GroupMe Card**: User details and preferences.  
-   - **Flare Card**: Personal attributes and events.  
-   - **CampusGroups Card**: Event registration and notifications.
-
-2. **Editable Forms**  
-   Input types include:  
-   - Text fields for names and contact information.  
-   - Dropdowns for organizations and events.  
-   - Radio buttons for event types and choices.  
-   - Checkboxes for notification preferences.  
-   - A **Date of Birth (DOB)** input field.  
-
-3. **JSON Export**  
-   The app outputs the updated data in JSON format to the console.
-
-4. **Responsive Design**  
-   Fully responsive layout optimized for both desktop and mobile devices.
+## Features  
+* One webpage, or central location, that a fraternity or sorority member can go to for accessing, learning, or editing data related to fraternity and sorority life.  
+* The load data button at the top left of the page allows a user to quickly load in their personal data to make learning about and registering for events easier. 
+* Three separate cards (one for GroupMe, Flare, and CampusGroups respectively) in a form that are set up for a user to put in their information, learn about events, and register for the events they want to go to.
+* Once the user is satisfied with the information they have put in, they can hit the submit and confirm information button at the bottom of the page. After clicking this button, the data they input will be logged to the console in JSON format and the user will receive a personalized message back saying that their data was collected successfully.
+* The app is also styled with a **green, black, and white color scheme** as these are the official colors of GreekLink.
 
 ---
 
-## How to Use
+## Simple How to Use Guide
 1. Open the app in a browser.  
-2. Click the **Load Data** button to populate the cards with default data.  
+2. Click the **Load Data** button to populate the cards with default  user data.  
 3. Edit the values in the form fields as desired.  
-4. Click **Submit** to save changes and view the JSON output in the console.
+4. Click **Submit** to save changes, receive a message stating that the data has been collected, and view the JSON output in the console.
 
 ---
 
