@@ -1,0 +1,105 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  color: #004d00;
+}
+
+.navbar {
+  background-color: #004d00;
+}
+
+.navbar .nav-link, .navbar-brand {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.card {
+  border: 1px solid #004d00;
+  background-color: #e6ffe6; 
+}
+
+.card-title {
+  color: #004d00; 
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn-success {
+  background-color: #004d00;
+  border-color: #004d00;
+  color: #ffffff;
+}
+
+.btn-success:hover {
+  background-color: #006600;
+  border-color: #006600;
+}
+
+.btn-primary {
+  background-color: #004d00;
+  border-color: #004d00;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: #006600;
+  border-color: #006600;
+}
+
+.form-label {
+  color: #004d00;
+  font-weight: bold;
+}
+
+label {
+  color: #004d00;
+  font-weight: bold;
+}
+
+.form-check-label {
+  color: black;
+  font-weight: normal;
+}
+
+input, select {
+  border: 1px solid #004d00;
+  border-radius: 4px;
+}
+
+input:focus, select:focus {
+  border-color: #006600;
+  box-shadow: 0 0 5px rgba(0, 77, 0, 0.5);
+}
+
+.form-check-input:checked {
+  background-color: #004d00;
+  border-color: #004d00;
+}
+
+pre#data-output {
+  background-color: #ffffff;
+  border: 1px solid #004d00;
+  color: #004d00;
+  padding: 10px;
+  font-family: 'Courier New', monospace;
+}
+
+#successMessage {
+  color: black;
+  font-weight: bold;
+}
+
+footer {
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
