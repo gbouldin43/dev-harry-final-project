@@ -28,7 +28,7 @@ This project consists of creating a **mobile-responsive web application** design
 
 ## Preview
 Below is a preview of the interface:  
-![App Interface](GreekLink Preview.png)
+![App Interface](GreekLink Preview.png "GreekLink Preview")
 
 ---
 
