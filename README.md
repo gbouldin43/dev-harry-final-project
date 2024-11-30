@@ -32,4 +32,4 @@ This project consists of creating a **mobile-responsive web application** design
 ---
 
 ## Credits
-Created by Garrett Bouldin. Inspired by real-world scenarios in fraternity and sorotity life at the University of North Alabama.
+Created by Garrett Bouldin. Inspired by real-world scenarios in fraternity and sorority life at the University of North Alabama.
