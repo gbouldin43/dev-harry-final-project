@@ -31,6 +31,7 @@ I am a member of the Lambda Sigma Phi fraternity chapter at the University of No
 
 ## GreekLink Prototype from CIS 330
 Here are some images of the prototype I built in CIS 330 for the GreekLink application. The first image is the login screen, which most closely relates to the webpage application I built for this project, and the rest of the images show what the rest of the main pages of the application would look like if it was finalized.
+
 ![App Interface](/images/greeklinkloginpage.png "GreekLink Preview")
 ![App Interface](/images/greeklinkhomepage.png "GreekLink Preview")
 ![App Interface](/images/greeklinkfratsandsororities.png "GreekLink Preview")
