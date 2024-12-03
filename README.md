@@ -30,7 +30,7 @@ I am a member of the Lambda Sigma Phi fraternity chapter at the University of No
 ---
 
 ## GreekLink Interface Preview 
-![App Interface](greeklinkpreview.png "GreekLink Preview")
+![App Interface](/images/greeklinkpreview.png "GreekLink Preview")
 
 ---
 
